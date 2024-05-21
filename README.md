@@ -20,7 +20,7 @@
 ## study
 | 언어 | 링크 |
 | ---- | ---- |
-| JavaScript | [알고리즘](https://github.com/Qnd1101/Algorithm)
+| JavaScript | [여러 프로젝트](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript)
 | Spring | [인프런 스프링 강의](https://yuika12.notion.site/Spring-5c174b62f4e841e3ae62002e131150d2?pvs=4)
 | Flutter | [일별 박스오피스 프로그램](https://github.com/Yuika12321/flutter_application_kobis-main12-main)
 | Flutter | [타이머, 난수 발생 프로그램](https://github.com/Yuika12321/flutter_application_portfolio)
