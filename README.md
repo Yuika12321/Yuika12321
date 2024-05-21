@@ -59,3 +59,8 @@
 <div>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQnd1101%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=chupachups.svg&icon_color=%23E7E7E7&title=방문자&edge_flat=false"/></a>
 </div>  
+
+
+
+
+<img src="https://github.com/Yuika12321/Yuika12321/blob/output/github-contribution-grid-snake.svg"/>
