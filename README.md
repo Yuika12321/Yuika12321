@@ -1,12 +1,12 @@
-<h1>
+<h2>
   Oh Seung Bo
-</h1>
+</h2>
 
 | 제목  | 설명 |
 | ---- | ---- |
-| 학교 | 성일정보고등학교(소프트웨어 개발과) |
-|이메일 | Email : kornao41@gmail.com |
-| 노션 | [본진입니다](https://yuika12.notion.site/6a0960ecbdf0435b9de4433bf49e0107) |
+| School | Sungil Infomation High School(Software Development) |
+| Mail | Email : kornao41@gmail.com |
+| Notion | [Home](https://yuika12.notion.site/6a0960ecbdf0435b9de4433bf49e0107) |
 ## 교내외 활동
 | 기간 | 활동명 | 설명 |
 | ---- | ---- | ----- |
