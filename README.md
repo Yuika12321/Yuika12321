@@ -17,6 +17,26 @@
 | 2024.04 ~ 현재 | 취업맞춤반 소프트웨어개발과정 | 취업을 위한 여러 준비 |
 | 2023.04.04 ~ 2023.11.29 | 앱개발 방과후 | 플러터를 이용한 앱 개발 |
 
+## study
+| 언어 | 링크 |
+| ---- | ---- |
+| JavaScript | [알고리즘](https://github.com/Qnd1101/Algorithm)
+| Spring | [인프런 스프링 강의](https://yuika12.notion.site/Spring-5c174b62f4e841e3ae62002e131150d2?pvs=4)
+| Flutter | [일별 박스오피스 프로그램](https://github.com/Yuika12321/flutter_application_kobis-main12-main)
+| Flutter | [타이머, 난수 발생 프로그램](https://github.com/Yuika12321/flutter_application_portfolio)
+| Flutter | [원하는 날짜 급식 정보 프로그램](https://github.com/Yuika12321/flutter_application_meal-)
+| Flutter | [다이어리 프로그램](https://github.com/Yuika12321/flutter_application_diary-main)
+| Flutter | [주문 앱 프로그램](https://github.com/Yuika12321/flutter_application_client)
+| Flutter | [주문 관리 프로그램](https://github.com/Yuika12321/flutter_cafe_admin)
+
+## 산업기사 문제풀이
+| 문제명 | 링크 |
+| ---- | ---- |
+| 쇼핑몰 회원관리 프로그램 | https://yuika12.notion.site/73e7d4584954468cacde74136fecc42a |
+| 지역구의원투표 프로그램 | https://yuika12.notion.site/12025dbc9c774a7ea66f359ef2520730 |
+| 백신예약 프로그램 | https://yuika12.notion.site/4056118a05004c6090e5e9408756c131 |
+| 진단검사 프로그램 | https://yuika12.notion.site/4bc20f46f3e24145b65af1edd7f9ff37 |
+| 골프연습장 회원관리 프로그램 | https://yuika12.notion.site/9c7b57f8d19e4c3e96e9ac18ff650321 |
 <div>
   
 ## Status
