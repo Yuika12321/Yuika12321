@@ -53,7 +53,7 @@
 
  
 <h2>
-  :kissing_smiling_eyes:  Skills :kissing_smiling_eyes: 
+  💡 Skills 💡
 </h2>
 
 ### Programming
