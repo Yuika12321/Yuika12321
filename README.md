@@ -1,4 +1,4 @@
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e74656c6c696a253230696465612d3030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a69646561266c6f676f436f6c6f723d7768697465](https://github.com/Yuika12321/Yuika12321/assets/131143940/29df209a-040b-4866-ab9b-8b258d497625)<h2>
+<h2>
   Oh Seung Bo
 </h2>
 
@@ -70,8 +70,9 @@
 ### Famework
 <div>
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>![Uploadin<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="143.25" height="28" role="img" aria-label="INTELLIJ IDEA"><title>INTELLIJ IDEA</title><g shape-rendering="crispEdges"><rect width="143.25" height="28" fill="#000000"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkludGVsbGlKIElERUE8L3RpdGxlPjxwYXRoIGQ9Ik0wIDB2MjRoMjRWMHptMy43MjMgMy4xMTFoNXYxLjgzNGgtMS4zOXY2LjI3N2gxLjM5djEuODM0aC01di0xLjgzNGgxLjQ0NFY0Ljk0NUgzLjcyM3ptMTEuMDU1IDBIMTd2Ni41YzAgLjYxMi0uMDU1IDEuMTExLS4yMjIgMS41NTYtLjE2Ny40NDQtLjM5Ljc3Ny0uNzIzIDEuMTEtLjI3Ny4yNzktLjY2Ni41NTctMS4xMS42NjhhMy45MzMgMy45MzMgMCAwIDEtMS40NDUuMjc4Yy0uNzc4IDAtMS40NDQtLjE2Ny0xLjk0NC0uNDQ1YTQuODEgNC44MSAwIDAgMS0xLjI3OS0xLjA1NmwxLjM5LTEuNTU1Yy4yNzcuMzM0LjU1NS41NTUuODMzLjcyMi4yNzcuMTY3LjYxMS4yNzguOTQ1LjI3OC4zODkgMCAuNzIxLS4xMTEgMS0uMzg5LjIyMS0uMjc4LjMzMy0uNjY3LjMzMy0xLjI3OHpNMi4yMjIgMTkuNWg5VjIxaC05eiIvPjwvc3ZnPg=="/><text transform="scale(.1)" x="816.25" y="175" textLength="992.5" fill="#fff" font-weight="bold">INTELLIJ IDEA</text></g></svg>g 68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e74656c6c696a253230696465612d3030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a69646561266c6f676f436f6c6f723d7768697465.svg…]()
-
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://camo.githubusercontent.com/9976519df086613467250ab3390fa16f42c2fa0681853b8d762d75360baf6f16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e74656c6c696a253230696465612d3030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a69646561266c6f676f436f6c6f723d7768697465"/>
+  
 </div>
 
 
