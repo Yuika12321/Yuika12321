@@ -6,7 +6,7 @@
 | ---- | ---- |
 | 학교 | 성일정보고등학교(소프트웨어개발) |
 | 메일 | Email : kornao41@gmail.com |
-| Notion | [HomeGround](https://yuika12.notion.site/6a0960ecbdf0435b9de4433bf49e0107) |
+| Notion | [HomeGround](https://yuika12.notion.site/6a0960ecbdf0435b9de4433bf49e0107 "https://yuika12.notion.site/6a0960ecbdf0435b9de4433bf49e0107") |
 ## 교내외 활동
 | 기간 | 활동명 | 설명 |
 | ---- | ---- | ----- |
