@@ -20,14 +20,14 @@
 ## study
 | 언어 | 링크 |
 | ---- | ---- |
-| JavaScript | [여러 프로젝트](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript)
-| Spring | [인프런 스프링 강의](https://yuika12.notion.site/Spring-5c174b62f4e841e3ae62002e131150d2?pvs=4)
-| Flutter | [일별 박스오피스 프로그램](https://github.com/Yuika12321/flutter_application_kobis-main12-main)
-| Flutter | [타이머, 난수 발생 프로그램](https://github.com/Yuika12321/flutter_application_portfolio)
-| Flutter | [원하는 날짜 급식 정보 프로그램](https://github.com/Yuika12321/flutter_application_meal-)
-| Flutter | [다이어리 프로그램](https://github.com/Yuika12321/flutter_application_diary-main)
-| Flutter | [주문 앱 프로그램](https://github.com/Yuika12321/flutter_application_client)
-| Flutter | [주문 관리 프로그램](https://github.com/Yuika12321/flutter_cafe_admin)
+| JavaScript | [여러 프로젝트](https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript "https://github.com/Yuika12321/2024_get_a_job/tree/main/JavaScript")
+| Spring | [인프런 스프링 강의](https://yuika12.notion.site/Spring-5c174b62f4e841e3ae62002e131150d2?pvs=4 "https://yuika12.notion.site/Spring-5c174b62f4e841e3ae62002e131150d2?pvs=4")
+| Flutter | [일별 박스오피스 프로그램](https://github.com/Yuika12321/flutter_application_kobis-main12-main "https://github.com/Yuika12321/flutter_application_kobis-main12-main")
+| Flutter | [타이머, 난수 발생 프로그램](https://github.com/Yuika12321/flutter_application_portfolio "https://github.com/Yuika12321/flutter_application_portfolio")
+| Flutter | [원하는 날짜 급식 정보 프로그램](https://github.com/Yuika12321/flutter_application_meal- "https://github.com/Yuika12321/flutter_application_meal-")
+| Flutter | [다이어리 프로그램](https://github.com/Yuika12321/flutter_application_diary-main "https://github.com/Yuika12321/flutter_application_diary-main")
+| Flutter | [주문 앱 프로그램](https://github.com/Yuika12321/flutter_application_client "https://github.com/Yuika12321/flutter_application_client")
+| Flutter | [주문 관리 프로그램](https://github.com/Yuika12321/flutter_cafe_admin "https://github.com/Yuika12321/flutter_cafe_admin")
 
 ## 산업기사 문제풀이
 | 문제명 | 링크 |
