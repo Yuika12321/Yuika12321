@@ -43,7 +43,7 @@
 
 <div>
   
-  <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuika12321)](https://solved.ac/yuika12321/)  -->
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuika12321)](https://solved.ac/yuika12321/)
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuika12321&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuika12321&layout=compact&theme=tokyonight)
   
