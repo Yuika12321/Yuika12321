@@ -1,4 +1,4 @@
-<h2>Oh Seung Bo</h2>
+<h2>SeungBo Oh</h2>
 
 | 제목  | 설명 |
 | ---- | ---- |
