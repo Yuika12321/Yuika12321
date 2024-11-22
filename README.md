@@ -68,9 +68,7 @@
 ### Famework
 <div>
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
-  <img src="https://camo.githubusercontent.com/9976519df086613467250ab3390fa16f42c2fa0681853b8d762d75360baf6f16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e74656c6c696a253230696465612d3030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a69646561266c6f676f436f6c6f723d7768697465"/>
-  
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/> 
 </div>
 
 
